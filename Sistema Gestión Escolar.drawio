@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-27T11:54:08.909Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="lDRmf6l8eHCimogQYdIR" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-27T12:00:43.435Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="3FnOgBADvfTImZtxjS5U" version="24.2.8" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2634" dy="1907" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2834" dy="2080" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1898,7 +1898,7 @@
         <mxCell id="4Rd4jdUKQLBPUY0ktJ0j-17" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERmany;endFill=0;startArrow=ERone;startFill=0;" parent="1" source="4Rd4jdUKQLBPUY0ktJ0j-2" target="4Rd4jdUKQLBPUY0ktJ0j-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hNgcpia0txlmw87ltbUV-1" value="usuario_escuela" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="hNgcpia0txlmw87ltbUV-1" value="usuario_escuela" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-270" y="90" width="250" height="120" as="geometry" />
         </mxCell>
         <mxCell id="hNgcpia0txlmw87ltbUV-2" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="hNgcpia0txlmw87ltbUV-1" vertex="1">
@@ -4426,7 +4426,7 @@
         <mxCell id="-hPPp5Mred0vQXyStjuj-22" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERone;endFill=0;startArrow=ERoneToMany;startFill=0;" parent="1" source="f5d2t7GGoPgYcwTnHiZ1-4" target="IZJKmbU9-MUAjZBozwmV-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jJ2hMesbItKrPq9eY0m5-1" value="escuela_PI" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
+        <mxCell id="jJ2hMesbItKrPq9eY0m5-1" value="escuela_PI" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1260" y="-190" width="310" height="120" as="geometry" />
         </mxCell>
         <mxCell id="jJ2hMesbItKrPq9eY0m5-2" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="jJ2hMesbItKrPq9eY0m5-1" vertex="1">
