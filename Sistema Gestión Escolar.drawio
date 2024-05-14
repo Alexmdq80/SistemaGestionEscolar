@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T13:49:43.154Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Z1PamKIpvb1sMNyt93AE" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-14T13:58:46.024Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="SRYX-_enDUFK8Zl_rsDv" version="24.4.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2248" dy="1576" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2494" dy="1790" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6625,8 +6625,8 @@
         <mxCell id="Lc9Fp94nBQXz1fS0PNy4-24" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERone;endFill=0;startArrow=ERoneToMany;startFill=0;" edge="1" parent="1" source="kCy79zV3Ovz_jeCi3UCK-107" target="kCy79zV3Ovz_jeCi3UCK-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Lc9Fp94nBQXz1fS0PNy4-25" value="Relación persona-persona muchos a muchos:" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="-590" width="261" height="205" as="geometry" />
+        <mxCell id="Lc9Fp94nBQXz1fS0PNy4-25" value="&lt;b&gt;Relación persona-persona muchos a muchos:&lt;/b&gt; por medio de la tb estudiante_adulto. Un estudiante puede tener varios responsables (generalmente 2) o personas autorizadas (generalmente hasta 6, pero no habría límites) al retiro o restricciones judiciales (generalmente 1, pero también no hay límites en la BD), y un responsable puede tener varios estudiantes a cargo (pudiendo ser padre/madre/tutor/representante legal).&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Una persona autorizada también puede estar autorizado en a retirar varios estudiantes y tener distinta relación con cada uno.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Una persona con restricción puede tener restricciones con más de un estudiante.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Relación estudiante_adulto-responsable/autorizada/restriccion-vinculo&amp;nbsp;relación polimórfica uno a muchos-muchos a uno.&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;La relación entre estudiante y adulto puede ser de Responsable, ó de Autorizada ó de Restricción. Son excluyentes.&lt;/div&gt;" style="text;strokeColor=#d79b00;align=center;fillColor=#ffe6cc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-473" y="-627" width="352" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
