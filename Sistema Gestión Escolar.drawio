@@ -5761,7 +5761,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="udQOrPyGizaFxNHBdkiJ-41" value="id_usuario_tipo TINYINT" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="udQOrPyGizaFxNHBdkiJ-39">
+        <mxCell id="udQOrPyGizaFxNHBdkiJ-41" value="id_usuario_tipo TINYINT DEFAULT (4)" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="udQOrPyGizaFxNHBdkiJ-39">
           <mxGeometry x="30" width="260" height="30" as="geometry">
             <mxRectangle width="260" height="30" as="alternateBounds" />
           </mxGeometry>
