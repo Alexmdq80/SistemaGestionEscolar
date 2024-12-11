@@ -7403,7 +7403,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1LYnUiL6XxvqThHSkHA8-55" value="detalle_escuela VARCHAR(255) NULLABLE" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=#e51400;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1LYnUiL6XxvqThHSkHA8-53">
+        <mxCell id="1LYnUiL6XxvqThHSkHA8-55" value="detalle VARCHAR(255) NULLABLE" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=#e51400;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1LYnUiL6XxvqThHSkHA8-53">
           <mxGeometry x="30" width="300" height="30" as="geometry">
             <mxRectangle width="300" height="30" as="alternateBounds" />
           </mxGeometry>
