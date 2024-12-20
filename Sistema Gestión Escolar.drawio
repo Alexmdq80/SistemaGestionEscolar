@@ -7133,22 +7133,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YzkaSRps73sRbpJmR-dM-24" value="inscripcion causa de cierre" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-957" y="924" width="286" height="180" as="geometry" />
+          <mxGeometry x="-957" y="924" width="286" height="150" as="geometry" />
         </mxCell>
         <mxCell id="YzkaSRps73sRbpJmR-dM-25" value="Finalizado" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="YzkaSRps73sRbpJmR-dM-24" vertex="1">
           <mxGeometry y="30" width="286" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YzkaSRps73sRbpJmR-dM-29" value="Egresado" style="text;strokeColor=#B20000;fillColor=#e51400;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#ffffff;" parent="YzkaSRps73sRbpJmR-dM-24" vertex="1">
+        <mxCell id="YzkaSRps73sRbpJmR-dM-26" value="Baja con pase" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="YzkaSRps73sRbpJmR-dM-24" vertex="1">
           <mxGeometry y="60" width="286" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YzkaSRps73sRbpJmR-dM-26" value="Baja con pase" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="YzkaSRps73sRbpJmR-dM-24" vertex="1">
+        <mxCell id="YzkaSRps73sRbpJmR-dM-27" value="Baja sin pase" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="YzkaSRps73sRbpJmR-dM-24" vertex="1">
           <mxGeometry y="90" width="286" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YzkaSRps73sRbpJmR-dM-27" value="Baja sin pase" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="YzkaSRps73sRbpJmR-dM-24" vertex="1">
-          <mxGeometry y="120" width="286" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="YzkaSRps73sRbpJmR-dM-28" value="Eliminado" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="YzkaSRps73sRbpJmR-dM-24" vertex="1">
-          <mxGeometry y="150" width="286" height="30" as="geometry" />
+          <mxGeometry y="120" width="286" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YzkaSRps73sRbpJmR-dM-30" value="pase_motivo" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-2433" y="1050" width="308" height="220" as="geometry" />
