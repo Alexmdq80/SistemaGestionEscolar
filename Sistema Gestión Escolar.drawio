@@ -7010,7 +7010,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eUi07CLl1AIlWjRsbu3T-16" value="id_region" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=#e51400;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="eUi07CLl1AIlWjRsbu3T-14">
+        <mxCell id="eUi07CLl1AIlWjRsbu3T-16" value="id_region_educativa TINYINT unsigned" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=#e51400;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="eUi07CLl1AIlWjRsbu3T-14">
           <mxGeometry x="30" width="300" height="30" as="geometry">
             <mxRectangle width="300" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -8042,7 +8042,10 @@
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eUi07CLl1AIlWjRsbu3T-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERoneToMany;endFill=0;startArrow=ERone;startFill=0;" edge="1" parent="1" source="eUi07CLl1AIlWjRsbu3T-34" target="eUi07CLl1AIlWjRsbu3T-19">
+        <mxCell id="eUi07CLl1AIlWjRsbu3T-37" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERoneToMany;endFill=0;startArrow=ERone;startFill=0;" edge="1" parent="1" source="eUi07CLl1AIlWjRsbu3T-34" target="eUi07CLl1AIlWjRsbu3T-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eUi07CLl1AIlWjRsbu3T-41" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERoneToMany;endFill=0;startArrow=ERone;startFill=0;" edge="1" parent="1" source="eUi07CLl1AIlWjRsbu3T-14" target="eUi07CLl1AIlWjRsbu3T-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
