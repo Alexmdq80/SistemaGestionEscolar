@@ -6931,11 +6931,6 @@
             <mxPoint x="-705" y="2458" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YzkaSRps73sRbpJmR-dM-4" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERone;endFill=0;startArrow=ERoneToMany;startFill=0;fillColor=#e51400;strokeColor=#B20000;" parent="1" target="GGdXlyZ4XycCPvXXurYe-66" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1275" y="1210" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="YzkaSRps73sRbpJmR-dM-5" value="inscripcion_pase" style="shape=table;startSize=29;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-2057" y="1111" width="330" height="430" as="geometry" />
         </mxCell>
