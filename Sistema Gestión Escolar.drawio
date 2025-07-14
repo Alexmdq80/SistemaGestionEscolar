@@ -5699,7 +5699,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jQSCFrkJrpKVJpOOJ9iM-4" value="id UUID" style="shape=partialRectangle;overflow=hidden;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;" parent="jQSCFrkJrpKVJpOOJ9iM-2" vertex="1">
+        <mxCell id="jQSCFrkJrpKVJpOOJ9iM-4" value="id UUID" style="shape=partialRectangle;overflow=hidden;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" parent="jQSCFrkJrpKVJpOOJ9iM-2" vertex="1">
           <mxGeometry x="30" width="260" height="30" as="geometry">
             <mxRectangle width="260" height="30" as="alternateBounds" />
           </mxGeometry>
