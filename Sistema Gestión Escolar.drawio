@@ -3559,8 +3559,8 @@
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IZJKmbU9-MUAjZBozwmV-28" value="escuela_nivel_modalidad" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-870" y="425" width="250" height="190" as="geometry" />
+        <mxCell id="IZJKmbU9-MUAjZBozwmV-28" value="escuela_nivel_modalidad" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="-819" y="338" width="250" height="190" as="geometry" />
         </mxCell>
         <mxCell id="IZJKmbU9-MUAjZBozwmV-29" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="IZJKmbU9-MUAjZBozwmV-28" vertex="1">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
