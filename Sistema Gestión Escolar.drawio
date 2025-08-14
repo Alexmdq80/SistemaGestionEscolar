@@ -4883,7 +4883,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jJ2hMesbItKrPq9eY0m5-1" value="escuela_propuesta" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="1251" y="-300" width="310" height="210" as="geometry" />
+          <mxGeometry x="1251" y="-345" width="310" height="210" as="geometry" />
         </mxCell>
         <mxCell id="jJ2hMesbItKrPq9eY0m5-2" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="jJ2hMesbItKrPq9eY0m5-1" vertex="1">
           <mxGeometry y="30" width="310" height="30" as="geometry" />
