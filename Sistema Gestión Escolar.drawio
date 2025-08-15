@@ -9385,7 +9385,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VILcNHb5nVCPk4SFqN2f-96" value="modalidad_nivel" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-1369.5" y="315" width="319" height="280" as="geometry" />
+          <mxGeometry x="-1364" y="315" width="319" height="280" as="geometry" />
         </mxCell>
         <mxCell id="VILcNHb5nVCPk4SFqN2f-97" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="VILcNHb5nVCPk4SFqN2f-96">
           <mxGeometry y="30" width="319" height="30" as="geometry" />
@@ -9593,9 +9593,6 @@
           <mxGeometry x="30" width="220" height="30" as="geometry">
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="VILcNHb5nVCPk4SFqN2f-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VILcNHb5nVCPk4SFqN2f-103" target="bMdxkqLZ1NgYz-ARAloR-76">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VILcNHb5nVCPk4SFqN2f-134" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERone;endFill=0;startArrow=ERoneToMany;startFill=0;" edge="1" parent="1" source="GGdXlyZ4XycCPvXXurYe-35" target="IZJKmbU9-MUAjZBozwmV-1">
           <mxGeometry relative="1" as="geometry">
