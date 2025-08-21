@@ -4648,8 +4648,8 @@
             <mxPoint x="690" y="1735" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EgQI2hLByNKilYJVUBn_-10" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;******HAY UNA INCONSITENCIA EN LA BD QUE NO PUEDO CORREGIR.&amp;nbsp;&lt;br&gt;ESTÁ RELACIONADA CON ID_DEPARTAMENTO, QUE EN ALGUNAS LOCALIDADES ES NULL,&lt;br&gt;PERO EN LAS CALLE, CON LA MISMA LOCALIDAD NO ES NULL.&lt;br&gt;ES UN PROBLEMA QUE VIENE DESDE GEOREF.&lt;br&gt;NO ES NECESARIO CORREGIRLO, EL SISTEMA FUNCIONARÍA BIEN DE&lt;br&gt;TODAS FORMAS&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#B85450;fillColor=#f8cecc;" parent="1" vertex="1">
-          <mxGeometry x="-40" y="2760" width="790" height="140" as="geometry" />
+        <mxCell id="EgQI2hLByNKilYJVUBn_-10" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;******HAY UNA INCONSITENCIA EN LA BD QUE NO PUEDO CORREGIR.&amp;nbsp;&lt;br&gt;ESTÁ RELACIONADA CON ID_DEPARTAMENTO, QUE EN ALGUNAS LOCALIDADES ES NULL,&lt;br&gt;PERO EN LAS CALLE, CON LA MISMA LOCALIDAD NO ES NULL.&lt;br&gt;ES UN PROBLEMA QUE VIENE DESDE GEOREF.&lt;br&gt;NO ES NECESARIO CORREGIRLO, EL SISTEMA FUNCIONARÍA BIEN DE&lt;br&gt;TODAS FORMAS, CREO QUE EL DEPARTAMENTO ESTÁ RELACIONADO CON CABA&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#B85450;fillColor=#f8cecc;" parent="1" vertex="1">
+          <mxGeometry x="-41" y="2764" width="792" height="132" as="geometry" />
         </mxCell>
         <mxCell id="tPsN3k6D6LEJ2LIXd0FF-268" value="municipios" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="620" y="1639" width="320" height="480" as="geometry" />
