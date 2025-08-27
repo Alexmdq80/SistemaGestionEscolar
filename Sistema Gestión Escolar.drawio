@@ -2031,7 +2031,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CHcQztuqKwyXdeDOYkoZ-6" value="plan_ciclo_id TINYINT UNSIGNED" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=#e51400;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontColor=#ffffff;strokeColor=#B20000;" parent="CHcQztuqKwyXdeDOYkoZ-4" vertex="1">
+        <mxCell id="CHcQztuqKwyXdeDOYkoZ-6" value="plan_ciclo_id TINYINT UNSIGNED" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=#0050ef;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontColor=#ffffff;strokeColor=#001DBC;" parent="CHcQztuqKwyXdeDOYkoZ-4" vertex="1">
           <mxGeometry x="30" width="220" height="30" as="geometry">
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -6685,8 +6685,11 @@
         <mxCell id="bAnOj1LVjntsVbnFxmNb-29" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERone;endFill=0;startArrow=ERoneToMany;startFill=0;" parent="1" source="bAnOj1LVjntsVbnFxmNb-5" target="C-vyLk0tnHw3VtMMgP7b-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Dy9JCPLCDqWgzrWHNRan-7" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERoneToMany;endFill=0;startArrow=ERone;startFill=0;" parent="1" source="kCy79zV3Ovz_jeCi3UCK-95" target="Dy9JCPLCDqWgzrWHNRan-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Dy9JCPLCDqWgzrWHNRan-7" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERoneToMany;endFill=0;startArrow=ERone;startFill=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="-558" as="sourcePoint" />
+            <mxPoint x="583" y="261.9999999999998" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Dy9JCPLCDqWgzrWHNRan-8" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERoneToMany;endFill=0;startArrow=ERone;startFill=0;" parent="1" source="kCy79zV3Ovz_jeCi3UCK-95" target="Dy9JCPLCDqWgzrWHNRan-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
