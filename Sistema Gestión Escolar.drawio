@@ -4321,7 +4321,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Dy9JCPLCDqWgzrWHNRan-3" value="responsable_1 BIGINT unsigned NULLABLE" style="shape=partialRectangle;overflow=hidden;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="Dy9JCPLCDqWgzrWHNRan-1" vertex="1">
+        <mxCell id="Dy9JCPLCDqWgzrWHNRan-3" value="persona_vinculo_persona_1_id BIGINT unsigned NULLABLE" style="shape=partialRectangle;overflow=hidden;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="Dy9JCPLCDqWgzrWHNRan-1" vertex="1">
           <mxGeometry x="30" width="370" height="30" as="geometry">
             <mxRectangle width="370" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -4334,7 +4334,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Dy9JCPLCDqWgzrWHNRan-6" value="responsable_2 BIGINT unsigned NULLABLE" style="shape=partialRectangle;overflow=hidden;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="Dy9JCPLCDqWgzrWHNRan-4" vertex="1">
+        <mxCell id="Dy9JCPLCDqWgzrWHNRan-6" value="persona_vinculo_persona_2_id BIGINT unsigned NULLABLE" style="shape=partialRectangle;overflow=hidden;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="Dy9JCPLCDqWgzrWHNRan-4" vertex="1">
           <mxGeometry x="30" width="370" height="30" as="geometry">
             <mxRectangle width="370" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -4347,7 +4347,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a9NfJ1Sy6EeIAsNXP-oE-3" value="restringida BIGINT unsigned NULLABLE" style="shape=partialRectangle;overflow=hidden;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="a9NfJ1Sy6EeIAsNXP-oE-1" vertex="1">
+        <mxCell id="a9NfJ1Sy6EeIAsNXP-oE-3" value="persona_vinculo_persona_3_id BIGINT unsigned NULLABLE" style="shape=partialRectangle;overflow=hidden;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="a9NfJ1Sy6EeIAsNXP-oE-1" vertex="1">
           <mxGeometry x="30" width="370" height="30" as="geometry">
             <mxRectangle width="370" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -7545,7 +7545,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GGdXlyZ4XycCPvXXurYe-34" value="persona_vinculo_persona_1 BIGINT unsigned NULLABLE" style="shape=partialRectangle;overflow=hidden;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="GGdXlyZ4XycCPvXXurYe-32" vertex="1">
+        <mxCell id="GGdXlyZ4XycCPvXXurYe-34" value="persona_vinculo_persona_1_id BIGINT unsigned NULLABLE" style="shape=partialRectangle;overflow=hidden;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="GGdXlyZ4XycCPvXXurYe-32" vertex="1">
           <mxGeometry x="30" width="370" height="30" as="geometry">
             <mxRectangle width="370" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -7558,7 +7558,7 @@
             <mxRectangle width="30" height="25" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HkBXzKvv5liv_ukdxGLN-99" value="persona_vinculo_persona_2 BIGINT unsigned NULLABLE" style="shape=partialRectangle;overflow=hidden;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="HkBXzKvv5liv_ukdxGLN-97" vertex="1">
+        <mxCell id="HkBXzKvv5liv_ukdxGLN-99" value="persona_vinculo_persona_2_id BIGINT unsigned NULLABLE" style="shape=partialRectangle;overflow=hidden;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="HkBXzKvv5liv_ukdxGLN-97" vertex="1">
           <mxGeometry x="30" width="370" height="25" as="geometry">
             <mxRectangle width="370" height="25" as="alternateBounds" />
           </mxGeometry>
@@ -7571,7 +7571,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GGdXlyZ4XycCPvXXurYe-37" value="persona_vinculo_persona_3 BIGINT unsigned NULLABLE" style="shape=partialRectangle;overflow=hidden;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="GGdXlyZ4XycCPvXXurYe-35" vertex="1">
+        <mxCell id="GGdXlyZ4XycCPvXXurYe-37" value="persona_vinculo_persona_3_id BIGINT unsigned NULLABLE" style="shape=partialRectangle;overflow=hidden;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="GGdXlyZ4XycCPvXXurYe-35" vertex="1">
           <mxGeometry x="30" width="370" height="30" as="geometry">
             <mxRectangle width="370" height="30" as="alternateBounds" />
           </mxGeometry>
