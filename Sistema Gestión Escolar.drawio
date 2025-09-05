@@ -3872,7 +3872,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VT-vNtiw1w87FENnLOV2-10" value="localidad_id BIGINT UNIQUE unsigned" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=#0050ef;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontColor=#ffffff;strokeColor=#001DBC;" parent="VT-vNtiw1w87FENnLOV2-8" vertex="1">
+        <mxCell id="VT-vNtiw1w87FENnLOV2-10" value="localidad_id SMALLINT unsigned" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=#0050ef;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontColor=#ffffff;strokeColor=#001DBC;" parent="VT-vNtiw1w87FENnLOV2-8" vertex="1">
           <mxGeometry x="30" width="361" height="30" as="geometry">
             <mxRectangle width="361" height="30" as="alternateBounds" />
           </mxGeometry>
