@@ -6658,7 +6658,7 @@
         <mxCell id="udQOrPyGizaFxNHBdkiJ-10" edge="1" parent="1" source="jQSCFrkJrpKVJpOOJ9iM-2" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERoneToMany;endFill=0;startArrow=ERone;startFill=0;" target="hNgcpia0txlmw87ltbUV-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="udQOrPyGizaFxNHBdkiJ-16" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#FF3333;strokeColor=#001DBC;fontColor=#ffffff;" value="usuario_tipos" vertex="1">
+        <mxCell id="udQOrPyGizaFxNHBdkiJ-16" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#0050EF;strokeColor=#001DBC;fontColor=#ffffff;" value="roles_escolares" vertex="1">
           <mxGeometry height="250" width="250" x="-1001" y="-176" as="geometry" />
         </mxCell>
         <mxCell id="udQOrPyGizaFxNHBdkiJ-17" parent="udQOrPyGizaFxNHBdkiJ-16" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" value="" vertex="1">
@@ -9106,7 +9106,7 @@
         <mxCell id="OlilGpvD85zg-7KVPe9e-1" edge="1" parent="1" source="GGdXlyZ4XycCPvXXurYe-5" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERone;endFill=0;startArrow=ERoneToMany;startFill=0;" target="C-vyLk0tnHw3VtMMgP7b-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MQxSQV0vu_Rv133hntoQ-1" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" value="cache_control" vertex="1">
+        <mxCell id="MQxSQV0vu_Rv133hntoQ-1" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#FF0000;strokeColor=#001DBC;fontColor=#ffffff;" value="cache_control" vertex="1">
           <mxGeometry height="220" width="340" x="-1661" y="-480" as="geometry" />
         </mxCell>
         <mxCell id="MQxSQV0vu_Rv133hntoQ-2" parent="MQxSQV0vu_Rv133hntoQ-1" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" value="" vertex="1">
